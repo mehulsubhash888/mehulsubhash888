@@ -24,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=TensorFlow,PyTorch,C,C++,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,c,cpp,python,git,github,vscode" />
 </p>
 
 ---
