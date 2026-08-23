@@ -24,23 +24,33 @@
   <img src="https://komarev.com/ghpvc/?username=mehulsubhash888&color=00FF41&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
----
+<br>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h2>🧑‍💻 About Me</h2>
-      <ul>
-        <li>🎓 B.Tech Student at <b>Vellore Institute of Technology (VIT)</b></li>
-        <li>💻 AI/ML Developer & Web Development Enthusiast</li>
-        <li>🤝 Currently collaborating on the <b>AI-Security-Operations-Center</b></li>
-        <li>🚀 Deploying projects and exploring cloud hosting via <b>Vercel</b></li>
-        <li>📚 Deepening my knowledge in <b>DSA</b></li>
-        <li>🏋️ Gym + Coding = Balance</li>
-      </ul>
+      <!-- Hacker Terminal Block -->
+      <table width="100%" bgcolor="#0D1117" style="border: 1px solid #00FF41; border-radius: 6px;">
+        <tr>
+          <td style="padding: 15px;">
+            <h3 style="color: #00FF41; font-family: monospace; margin-top: 0;">> system.info()</h3>
+            <p style="color: #c9d1d9; font-family: monospace; font-size: 14px; line-height: 1.6;">
+              <span style="color: #00FF41;">></span> 🎓 B.Tech Student at <b>VIT</b><br>
+              <span style="color: #00FF41;">></span> 💻 AI/ML Developer & Web Enthusiast<br>
+              <span style="color: #00FF41;">></span> 🤝 Collaborating on <b>AI-Security-Operations-Center</b><br>
+              <span style="color: #00FF41;">></span> 🚀 Deploying via <b>Vercel</b><br>
+              <span style="color: #00FF41;">></span> 📚 Deepening knowledge in <b>DSA</b><br>
+              <span style="color: #00FF41;">></span> 🏋️ Gym + Coding = Balance<br>
+              <span style="color: #00FF41;">></span> █
+            </p>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="45%" valign="top">
-      <h2>🛠️ Tech Stack</h2>
+    <td width="5%"></td>
+    <td width="40%" valign="top" align="center">
+      <br>
+      <h2 style="margin-top: 0;">🛠️ Tech Stack</h2>
       <p align="center">
         <b>AI / ML & Languages</b><br>
         <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,c,cpp" /><br><br>
@@ -50,6 +60,8 @@
     </td>
   </tr>
 </table>
+
+<br>
 
 ---
 
